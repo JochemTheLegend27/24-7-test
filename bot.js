@@ -30,8 +30,9 @@ var jochem = '398441594094616578';
 if(msg.author.id === jochem && msg.content === 'wie ben ik'){
     msg.channel.sendMessage('Hallo Jochem, jij bent Jochem')
 }
-    if(mss.author.id === jochem && msg.content === 'test'){
-msg.channel.sendMessage('jap')}
+    if(msg.author.id === jochem && msg.content === 'test'){
+    msg.channel.sendMessage('hallo')
+}
 
 })
 
