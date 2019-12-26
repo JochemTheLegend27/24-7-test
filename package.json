@@ -1,0 +1,14 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "test bot for 24/7 online",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Jochem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
